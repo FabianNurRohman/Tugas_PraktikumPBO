@@ -7,7 +7,7 @@ public class DemoKonversiSuhu {
 		KonversiSuhu Konversi = new KonversiSuhu();
         KonversiSuhu2 Konversi2 = new KonversiSuhu2();
 
-        double Celcius = 25.0;
+        double Celcius = 45.0;
         double Fahrenheit = Konversi.CelciusToFahrenheit(Celcius);
         double Reamur = Konversi.CelciusToReamur(Celcius);
         double FahrenheitToReamur = Konversi2.FahrenheitToReamur(Fahrenheit);
