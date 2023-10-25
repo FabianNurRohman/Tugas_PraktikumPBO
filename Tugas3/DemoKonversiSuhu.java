@@ -13,8 +13,8 @@ public class DemoKonversiSuhu {
         double FahrenheitToReamur = Konversi2.FahrenheitToReamur(Fahrenheit);
 
         System.out.println("Hasil Konversi Suhu:");
-        System.out.println(Celcius + " Celsius       = " + Fahrenheit + " Fahrenheit");
-        System.out.println(Celcius + " Celsius       = " + Reamur + " Reamur");
+        System.out.println(Celcius + " Celsius        = " + Fahrenheit + " Fahrenheit");
+        System.out.println(Celcius + " Celsius        = " + Reamur + " Reamur");
         System.out.println(Fahrenheit + " Fahrenheit    = " + FahrenheitToReamur + " Reamur");
 	}
 
