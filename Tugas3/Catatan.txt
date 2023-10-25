@@ -1,1 +1,2 @@
-Untuk Parent Class "Matematika"-nya, disini saya menggu nakan class matematuka yang ada di package "Tugas 2". Jadi Di dalam package ini tidak terdapat class parent "Matematika".
+Untuk Class parent "Matematika"-nya, disini saya menggunakan class "matematika" yang ada di package "Tugas 2". 
+Jadi Di dalam package ini tidak terdapat class parent "Matematika".
